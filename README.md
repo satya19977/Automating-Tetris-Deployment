@@ -1,2 +1,2 @@
 ## Automating-Tetris-Deployment
-### This project is the outcome of my internship experience. I found a github repo containing Tetris code and applied the knowledge gained in my intership which is end to end implementation of DevSecOps principles
+### This project is a culmination of my internship experience. I implemented DevOps culuture and extented it to include DevSecOps as well. I took a sample Tetris code from a github repo and desgined end to end architecture utilising all the devops tools
